@@ -1,8 +1,7 @@
-
 /* Global properties ======================================================== */
 body { 
-	background:#6f599c;
-	background-image:url(../images/bg.jpg) ;
+    background-image:url(https://secondcropcreative.com/perfectloops/images/aurora-borealis-loop2.gif);
+    background-size: cover;
 	text-align:left;
 }
 
@@ -24,7 +23,7 @@ body {
 	opacity:0.7;
 }
 	
-#myContent{
+#myContent{ 
 	position:absolute;
 	left:80px;
 	top:130px;
@@ -34,7 +33,7 @@ body {
 	font-style:italic;
 	font-weight:500;
 	font-size:20px;
-	color:#CCCCCC;
+	color: yellow;
 }
 
 #container{
@@ -54,7 +53,7 @@ body {
 	padding:10px;
 	overflow:hidden;
 	text-shadow: 2px 3px 3px #222; 
-	color:#CCCCCC;
+	color:red;
 }
 
 #footer {
